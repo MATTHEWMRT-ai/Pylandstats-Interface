@@ -61,3 +61,6 @@ streamlit run app.py
     Lancer_Analyse.bat : Script de lancement rapide pour Windows.
 
     temp_chunk_results.csv : Fichier temporaire généré pendant le calcul par blocs.
+📝 Auteur
+
+    Kheobs - Initial work Matthew MARTINE
